@@ -16,3 +16,17 @@ The primary source of data used here is CustomerData.csv this is a closed source
 - SQL - Structured Query Language for quering of data.
 - PowerBI for data anaiysis and visitualization.
 - GitHub for portfolio building.
+
+### Exploratory Data Anaysis
+This involved data exploration to give insights and answers to some questions aboutr the data such as;
+- Identify the most popular subscription types
+- To find subscription patterns
+- To find average subscription duration for all customers. e.t.c.
+
+
+### Data Cleaning and preparations
+In the initial phase of the data cleaning and preparations, we perrform the following actions;
+1. Uploading of data and inspection
+2. Handling missing variables
+3. Data cleaning and formatting
+   
