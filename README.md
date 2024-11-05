@@ -19,7 +19,7 @@ The primary source of data used here is CustomerData.csv this is a closed source
 
 
 ### Data Cleaning and preparations
-In the initial phase of the data cleaning and preparations, we perrform the following actions;
+In the initial phase of the data cleaning and preparations, we performed the following actions;
 1. Uploading of data and inspection
 2. Handling missing variables
 3. Data cleaning and formatting
@@ -31,15 +31,13 @@ This involved data exploration to give insights and answers to some questions ab
 - To find average subscription duration for all customers. e.t.c.
 
 ### Data Analysis
-This is where we include some basic lines of codes or queries or even some of the DAX expression ussed during the analysis;
-
-### Data Visualisation
+This is where we include some basic lines of codes or queries or even some of the DAX expression used during the analysis;
 
 ~~~SQL
  SELECT Region, Count (*)AS Customers
    FROM [CAPSTONE_DB].[dbo].[capstone 1]
   Group by Region;
 ~~~
-|Heading 1|Heading 2|Heading 3|   
-|---------|---------|---------|
-|Table 1|Table 2|Table 3|
+
+
+### Data Visualisation
