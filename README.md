@@ -10,3 +10,9 @@ track subscription types and identify key trends in cancellations and renewals.
 
 ### Data Sources
 The primary source of data used here is CustomerData.csv this is a closed source data 
+
+### Tools Used
+- Microsoft Excel for data cleaning, analysis and visualization.
+- SQL - Structured Query Language for quering of data.
+- PowerBI for data anaiysis and visitualization.
+- GitHub for portfolio building.
