@@ -33,9 +33,13 @@ This involved data exploration to give insights and answers to some questions ab
 ### Data Analysis
 This is where we include some basic lines of codes or queries or even some of the DAX expression ussed during the analysis;
 
+### Data Visualisation
+
 ~~~SQL
  SELECT Region, Count (*)AS Customers
    FROM [CAPSTONE_DB].[dbo].[capstone 1]
   Group by Region;
 ~~~
-   
+|Heading 1|Heading 2|Heading 3|   
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
