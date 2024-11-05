@@ -17,16 +17,25 @@ The primary source of data used here is CustomerData.csv this is a closed source
 - PowerBI for data anaiysis and visitualization.
 - GitHub for portfolio building.
 
-### Exploratory Data Anaysis
-This involved data exploration to give insights and answers to some questions aboutr the data such as;
-- Identify the most popular subscription types
-- To find subscription patterns
-- To find average subscription duration for all customers. e.t.c.
-
 
 ### Data Cleaning and preparations
 In the initial phase of the data cleaning and preparations, we perrform the following actions;
 1. Uploading of data and inspection
 2. Handling missing variables
 3. Data cleaning and formatting
+
+### Exploratory Data Anaysis
+This involved data exploration to give insights and answers to some questions about the data such as;
+- Identify the most popular subscription types
+- To find subscription patterns
+- To find average subscription duration for all customers. e.t.c.
+
+### Data Analysis
+This is where we include some basic lines of codes or queries or even some of the DAX expression ussed during the analysis;
+
+~~~SQL
+ SELECT Region, Count (*)AS Customers
+   FROM [CAPSTONE_DB].[dbo].[capstone 1]
+  Group by Region;
+~~~
    
